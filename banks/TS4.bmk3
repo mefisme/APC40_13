@@ -1,0 +1,2358 @@
+3KMB
+ΩÃ
+Object::Class
+Object::Name
+Object::PresetPath
+Object::MemorySize
+Object::TreeMemorySize
+Object::Changes
+Object::EventChanges
+Object::DisplayName
+	Object::ShortName
+
+Object::Order
+Object::PadOrder
+Object::Color
+Object::Visible
+Object::Selected
+Processor::StateCount
+Program::MIDIInputPort
+Program::MIDIInputChannel
+Program::MIDIOutputPort
+Program::MIDIOutputChannel
+Program::Monitor
+Program::InputBus0
+Program::InputBus1
+Program::OutputBus0
+Program::OutputBus1
+Program::Volume
+Program::Pan
+Program::Mute
+Program::Solo
+Program::Send0
+Program::Send1
+Program::Send2
+ Program::Send3
+!Program::Send4
+"Program::Send5
+#Program::Send6
+$Program::Send7
+%Program::Send0PreFader
+&Program::Send1PreFader
+'Program::Send2PreFader
+(Program::Send3PreFader
+)Program::Send4PreFader
+*Program::Send5PreFader
++Program::Send6PreFader
+,Program::Send7PreFader
+-Program::PreFaderSends
+.Program::Bus0RMS
+/Program::Bus1RMS
+0Program::Bus0Peak
+1Program::Bus1Peak
+2Program::MeteringPeaks
+3Program::ArmRecord
+4Program::Recording
+5Program::RecordMode
+6Program::RecordLength
+7Program::RecordThreshold
+8Program::MacroPage
+9Program::MacroXY
+:Program::FXOffset
+;Program::MIDIFXOffset
+<Program::ProcessEventsState
+=Effect::Bypass
+>Modulator::Active
+?Modulator::Static
+@Modulator::Amount
+AVoiceSource::Playing
+BVoiceSource::Position
+CVoiceSource::UsePitch
+DVoiceSource::Pitch
+EVoiceSource::RootKey
+FVoiceSource::LowKey
+GVoiceSource::HighKey
+HVoiceSource::LowVelocity
+IVoiceSource::HighVelocity
+JVoiceSource::Mute
+KTrack::TrackID
+LTrack::PlayMode
+MTrack::CurrentPattern
+NTrack::NextPattern
+OTrack::CurrentScene
+PTrack::NextScene
+QTrack::SelectedScene
+RTrack::SelectedPattern
+STrack::Page
+TTrack::PageSize
+UTrack::SelectedAutomation
+VTrack::RecordingPattern
+WTrack::SelectedEvent
+XTrack::EditingSong
+YTrack::ArmEvents
+ ZPluginInstrument::PlugInName
+"[PluginInstrument::PluginParam0
+"\PluginInstrument::PluginParam1
+"]PluginInstrument::PluginParam2
+"^PluginInstrument::PluginParam3
+"_PluginInstrument::PluginParam4
+"`PluginInstrument::PluginParam5
+"aPluginInstrument::PluginParam6
+"bPluginInstrument::PluginParam7
+"cPluginInstrument::PluginParam8
+"dPluginInstrument::PluginParam9
+#ePluginInstrument::PluginParam10
+#fPluginInstrument::PluginParam11
+#gPluginInstrument::PluginParam12
+#hPluginInstrument::PluginParam13
+#iPluginInstrument::PluginParam14
+#jPluginInstrument::PluginParam15
+#kPluginInstrument::PluginParam16
+#lPluginInstrument::PluginParam17
+#mPluginInstrument::PluginParam18
+#nPluginInstrument::PluginParam19
+#oPluginInstrument::PluginParam20
+#pPluginInstrument::PluginParam21
+#qPluginInstrument::PluginParam22
+#rPluginInstrument::PluginParam23
+#sPluginInstrument::PluginParam24
+#tPluginInstrument::PluginParam25
+#uPluginInstrument::PluginParam26
+#vPluginInstrument::PluginParam27
+#wPluginInstrument::PluginParam28
+#xPluginInstrument::PluginParam29
+#yPluginInstrument::PluginParam30
+#zPluginInstrument::PluginParam31
+#{PluginInstrument::PluginParam32
+#|PluginInstrument::PluginParam33
+#}PluginInstrument::PluginParam34
+#~PluginInstrument::PluginParam35
+#PluginInstrument::PluginParam36
+$ÄPluginInstrument::PluginParam37
+$ÅPluginInstrument::PluginParam38
+$ÇPluginInstrument::PluginParam39
+$ÉPluginInstrument::PluginParam40
+$ÑPluginInstrument::PluginParam41
+$ÖPluginInstrument::PluginParam42
+$ÜPluginInstrument::PluginParam43
+$áPluginInstrument::PluginParam44
+$àPluginInstrument::PluginParam45
+$âPluginInstrument::PluginParam46
+$äPluginInstrument::PluginParam47
+$ãPluginInstrument::PluginParam48
+$åPluginInstrument::PluginParam49
+$çPluginInstrument::PluginParam50
+$éPluginInstrument::PluginParam51
+$èPluginInstrument::PluginParam52
+$êPluginInstrument::PluginParam53
+$ëPluginInstrument::PluginParam54
+$íPluginInstrument::PluginParam55
+$ìPluginInstrument::PluginParam56
+$îPluginInstrument::PluginParam57
+$ïPluginInstrument::PluginParam58
+$ñPluginInstrument::PluginParam59
+$óPluginInstrument::PluginParam60
+$òPluginInstrument::PluginParam61
+$ôPluginInstrument::PluginParam62
+$öPluginInstrument::PluginParam63
+$õPluginInstrument::PluginParam64
+$úPluginInstrument::PluginParam65
+$ùPluginInstrument::PluginParam66
+$ûPluginInstrument::PluginParam67
+$üPluginInstrument::PluginParam68
+$†PluginInstrument::PluginParam69
+$°PluginInstrument::PluginParam70
+$¢PluginInstrument::PluginParam71
+$£PluginInstrument::PluginParam72
+$§PluginInstrument::PluginParam73
+$•PluginInstrument::PluginParam74
+$¶PluginInstrument::PluginParam75
+$ßPluginInstrument::PluginParam76
+$®PluginInstrument::PluginParam77
+$©PluginInstrument::PluginParam78
+$™PluginInstrument::PluginParam79
+$´PluginInstrument::PluginParam80
+$¨PluginInstrument::PluginParam81
+$≠PluginInstrument::PluginParam82
+$ÆPluginInstrument::PluginParam83
+$ØPluginInstrument::PluginParam84
+$∞PluginInstrument::PluginParam85
+$±PluginInstrument::PluginParam86
+$≤PluginInstrument::PluginParam87
+$≥PluginInstrument::PluginParam88
+$¥PluginInstrument::PluginParam89
+$µPluginInstrument::PluginParam90
+$∂PluginInstrument::PluginParam91
+$∑PluginInstrument::PluginParam92
+$∏PluginInstrument::PluginParam93
+$πPluginInstrument::PluginParam94
+$∫PluginInstrument::PluginParam95
+$ªPluginInstrument::PluginParam96
+$ºPluginInstrument::PluginParam97
+$ΩPluginInstrument::PluginParam98
+$æPluginInstrument::PluginParam99
+%ø PluginInstrument::PluginParam100
+%¿ PluginInstrument::PluginParam101
+%¡ PluginInstrument::PluginParam102
+%¬ PluginInstrument::PluginParam103
+%√ PluginInstrument::PluginParam104
+%ƒ PluginInstrument::PluginParam105
+%≈ PluginInstrument::PluginParam106
+%∆ PluginInstrument::PluginParam107
+%« PluginInstrument::PluginParam108
+%» PluginInstrument::PluginParam109
+%… PluginInstrument::PluginParam110
+%  PluginInstrument::PluginParam111
+%À PluginInstrument::PluginParam112
+%Ã PluginInstrument::PluginParam113
+%Õ PluginInstrument::PluginParam114
+%Œ PluginInstrument::PluginParam115
+%œ PluginInstrument::PluginParam116
+%– PluginInstrument::PluginParam117
+%— PluginInstrument::PluginParam118
+%“ PluginInstrument::PluginParam119
+%” PluginInstrument::PluginParam120
+%‘ PluginInstrument::PluginParam121
+%’ PluginInstrument::PluginParam122
+%÷ PluginInstrument::PluginParam123
+%◊ PluginInstrument::PluginParam124
+%ÿ PluginInstrument::PluginParam125
+%Ÿ PluginInstrument::PluginParam126
+%⁄ PluginInstrument::PluginParam127
+%€ PluginInstrument::PluginParam128
+%‹ PluginInstrument::PluginParam129
+%› PluginInstrument::PluginParam130
+%ﬁ PluginInstrument::PluginParam131
+%ﬂ PluginInstrument::PluginParam132
+%‡ PluginInstrument::PluginParam133
+%· PluginInstrument::PluginParam134
+%‚ PluginInstrument::PluginParam135
+%„ PluginInstrument::PluginParam136
+%‰ PluginInstrument::PluginParam137
+%Â PluginInstrument::PluginParam138
+%Ê PluginInstrument::PluginParam139
+%Á PluginInstrument::PluginParam140
+%Ë PluginInstrument::PluginParam141
+%È PluginInstrument::PluginParam142
+%Í PluginInstrument::PluginParam143
+%Î PluginInstrument::PluginParam144
+%Ï PluginInstrument::PluginParam145
+%Ì PluginInstrument::PluginParam146
+%Ó PluginInstrument::PluginParam147
+%Ô PluginInstrument::PluginParam148
+% PluginInstrument::PluginParam149
+%Ò PluginInstrument::PluginParam150
+%Ú PluginInstrument::PluginParam151
+%Û PluginInstrument::PluginParam152
+%Ù PluginInstrument::PluginParam153
+%ı PluginInstrument::PluginParam154
+%ˆ PluginInstrument::PluginParam155
+%˜ PluginInstrument::PluginParam156
+%¯ PluginInstrument::PluginParam157
+%˘ PluginInstrument::PluginParam158
+%˙ PluginInstrument::PluginParam159
+%˚ PluginInstrument::PluginParam160
+%¸ PluginInstrument::PluginParam161
+%˝ PluginInstrument::PluginParam162
+%˛ PluginInstrument::PluginParam163
+%ˇ PluginInstrument::PluginParam164
+%Ä PluginInstrument::PluginParam165
+%Å PluginInstrument::PluginParam166
+%Ç PluginInstrument::PluginParam167
+%É PluginInstrument::PluginParam168
+%Ñ PluginInstrument::PluginParam169
+%Ö PluginInstrument::PluginParam170
+%Ü PluginInstrument::PluginParam171
+%á PluginInstrument::PluginParam172
+%à PluginInstrument::PluginParam173
+%â PluginInstrument::PluginParam174
+%ä PluginInstrument::PluginParam175
+%ã PluginInstrument::PluginParam176
+%å PluginInstrument::PluginParam177
+%ç PluginInstrument::PluginParam178
+%é PluginInstrument::PluginParam179
+%è PluginInstrument::PluginParam180
+%ê PluginInstrument::PluginParam181
+%ë PluginInstrument::PluginParam182
+%í PluginInstrument::PluginParam183
+%ì PluginInstrument::PluginParam184
+%î PluginInstrument::PluginParam185
+%ï PluginInstrument::PluginParam186
+%ñ PluginInstrument::PluginParam187
+%ó PluginInstrument::PluginParam188
+%ò PluginInstrument::PluginParam189
+%ô PluginInstrument::PluginParam190
+%ö PluginInstrument::PluginParam191
+%õ PluginInstrument::PluginParam192
+%ú PluginInstrument::PluginParam193
+%ù PluginInstrument::PluginParam194
+%û PluginInstrument::PluginParam195
+%ü PluginInstrument::PluginParam196
+%† PluginInstrument::PluginParam197
+%° PluginInstrument::PluginParam198
+%¢ PluginInstrument::PluginParam199
+%£ PluginInstrument::PluginParam200
+%§ PluginInstrument::PluginParam201
+%• PluginInstrument::PluginParam202
+%¶ PluginInstrument::PluginParam203
+%ß PluginInstrument::PluginParam204
+%® PluginInstrument::PluginParam205
+%© PluginInstrument::PluginParam206
+%™ PluginInstrument::PluginParam207
+%´ PluginInstrument::PluginParam208
+%¨ PluginInstrument::PluginParam209
+%≠ PluginInstrument::PluginParam210
+%Æ PluginInstrument::PluginParam211
+%Ø PluginInstrument::PluginParam212
+%∞ PluginInstrument::PluginParam213
+%± PluginInstrument::PluginParam214
+%≤ PluginInstrument::PluginParam215
+%≥ PluginInstrument::PluginParam216
+%¥ PluginInstrument::PluginParam217
+%µ PluginInstrument::PluginParam218
+%∂ PluginInstrument::PluginParam219
+%∑ PluginInstrument::PluginParam220
+%∏ PluginInstrument::PluginParam221
+%π PluginInstrument::PluginParam222
+%∫ PluginInstrument::PluginParam223
+%ª PluginInstrument::PluginParam224
+%º PluginInstrument::PluginParam225
+%Ω PluginInstrument::PluginParam226
+%æ PluginInstrument::PluginParam227
+%ø PluginInstrument::PluginParam228
+%¿ PluginInstrument::PluginParam229
+%¡ PluginInstrument::PluginParam230
+%¬ PluginInstrument::PluginParam231
+%√ PluginInstrument::PluginParam232
+%ƒ PluginInstrument::PluginParam233
+%≈ PluginInstrument::PluginParam234
+%∆ PluginInstrument::PluginParam235
+%« PluginInstrument::PluginParam236
+%» PluginInstrument::PluginParam237
+%… PluginInstrument::PluginParam238
+%  PluginInstrument::PluginParam239
+%À PluginInstrument::PluginParam240
+%Ã PluginInstrument::PluginParam241
+%Õ PluginInstrument::PluginParam242
+%Œ PluginInstrument::PluginParam243
+%œ PluginInstrument::PluginParam244
+%– PluginInstrument::PluginParam245
+%— PluginInstrument::PluginParam246
+%“ PluginInstrument::PluginParam247
+%” PluginInstrument::PluginParam248
+%‘ PluginInstrument::PluginParam249
+%’ PluginInstrument::PluginParam250
+%÷ PluginInstrument::PluginParam251
+%◊ PluginInstrument::PluginParam252
+%ÿ PluginInstrument::PluginParam253
+%Ÿ PluginInstrument::PluginParam254
+%⁄ PluginInstrument::PluginParam255
+€PluginEffect::PluginParam0
+‹PluginEffect::PluginParam1
+›PluginEffect::PluginParam2
+ﬁPluginEffect::PluginParam3
+ﬂPluginEffect::PluginParam4
+‡PluginEffect::PluginParam5
+·PluginEffect::PluginParam6
+‚PluginEffect::PluginParam7
+„PluginEffect::PluginParam8
+‰PluginEffect::PluginParam9
+ ÂPluginEffect::PluginParam10
+ ÊPluginEffect::PluginParam11
+ ÁPluginEffect::PluginParam12
+ ËPluginEffect::PluginParam13
+ ÈPluginEffect::PluginParam14
+ ÍPluginEffect::PluginParam15
+ ÎPluginEffect::PluginParam16
+ ÏPluginEffect::PluginParam17
+ ÌPluginEffect::PluginParam18
+ ÓPluginEffect::PluginParam19
+ ÔPluginEffect::PluginParam20
+ PluginEffect::PluginParam21
+ ÒPluginEffect::PluginParam22
+ ÚPluginEffect::PluginParam23
+ ÛPluginEffect::PluginParam24
+ ÙPluginEffect::PluginParam25
+ ıPluginEffect::PluginParam26
+ ˆPluginEffect::PluginParam27
+ ˜PluginEffect::PluginParam28
+ ¯PluginEffect::PluginParam29
+ ˘PluginEffect::PluginParam30
+ ˙PluginEffect::PluginParam31
+ ˚PluginEffect::PluginParam32
+ ¸PluginEffect::PluginParam33
+ ˝PluginEffect::PluginParam34
+ ˛PluginEffect::PluginParam35
+ ˇPluginEffect::PluginParam36
+ ÄPluginEffect::PluginParam37
+ ÅPluginEffect::PluginParam38
+ ÇPluginEffect::PluginParam39
+ ÉPluginEffect::PluginParam40
+ ÑPluginEffect::PluginParam41
+ ÖPluginEffect::PluginParam42
+ ÜPluginEffect::PluginParam43
+ áPluginEffect::PluginParam44
+ àPluginEffect::PluginParam45
+ âPluginEffect::PluginParam46
+ äPluginEffect::PluginParam47
+ ãPluginEffect::PluginParam48
+ åPluginEffect::PluginParam49
+ çPluginEffect::PluginParam50
+ éPluginEffect::PluginParam51
+ èPluginEffect::PluginParam52
+ êPluginEffect::PluginParam53
+ ëPluginEffect::PluginParam54
+ íPluginEffect::PluginParam55
+ ìPluginEffect::PluginParam56
+ îPluginEffect::PluginParam57
+ ïPluginEffect::PluginParam58
+ ñPluginEffect::PluginParam59
+ óPluginEffect::PluginParam60
+ òPluginEffect::PluginParam61
+ ôPluginEffect::PluginParam62
+ öPluginEffect::PluginParam63
+ õPluginEffect::PluginParam64
+ úPluginEffect::PluginParam65
+ ùPluginEffect::PluginParam66
+ ûPluginEffect::PluginParam67
+ üPluginEffect::PluginParam68
+ †PluginEffect::PluginParam69
+ °PluginEffect::PluginParam70
+ ¢PluginEffect::PluginParam71
+ £PluginEffect::PluginParam72
+ §PluginEffect::PluginParam73
+ •PluginEffect::PluginParam74
+ ¶PluginEffect::PluginParam75
+ ßPluginEffect::PluginParam76
+ ®PluginEffect::PluginParam77
+ ©PluginEffect::PluginParam78
+ ™PluginEffect::PluginParam79
+ ´PluginEffect::PluginParam80
+ ¨PluginEffect::PluginParam81
+ ≠PluginEffect::PluginParam82
+ ÆPluginEffect::PluginParam83
+ ØPluginEffect::PluginParam84
+ ∞PluginEffect::PluginParam85
+ ±PluginEffect::PluginParam86
+ ≤PluginEffect::PluginParam87
+ ≥PluginEffect::PluginParam88
+ ¥PluginEffect::PluginParam89
+ µPluginEffect::PluginParam90
+ ∂PluginEffect::PluginParam91
+ ∑PluginEffect::PluginParam92
+ ∏PluginEffect::PluginParam93
+ πPluginEffect::PluginParam94
+ ∫PluginEffect::PluginParam95
+ ªPluginEffect::PluginParam96
+ ºPluginEffect::PluginParam97
+ ΩPluginEffect::PluginParam98
+ æPluginEffect::PluginParam99
+!øPluginEffect::PluginParam100
+!¿PluginEffect::PluginParam101
+!¡PluginEffect::PluginParam102
+!¬PluginEffect::PluginParam103
+!√PluginEffect::PluginParam104
+!ƒPluginEffect::PluginParam105
+!≈PluginEffect::PluginParam106
+!∆PluginEffect::PluginParam107
+!«PluginEffect::PluginParam108
+!»PluginEffect::PluginParam109
+!…PluginEffect::PluginParam110
+! PluginEffect::PluginParam111
+!ÀPluginEffect::PluginParam112
+!ÃPluginEffect::PluginParam113
+!ÕPluginEffect::PluginParam114
+!ŒPluginEffect::PluginParam115
+!œPluginEffect::PluginParam116
+!–PluginEffect::PluginParam117
+!—PluginEffect::PluginParam118
+!“PluginEffect::PluginParam119
+!”PluginEffect::PluginParam120
+!‘PluginEffect::PluginParam121
+!’PluginEffect::PluginParam122
+!÷PluginEffect::PluginParam123
+!◊PluginEffect::PluginParam124
+!ÿPluginEffect::PluginParam125
+!ŸPluginEffect::PluginParam126
+!⁄PluginEffect::PluginParam127
+!€PluginEffect::PluginParam128
+!‹PluginEffect::PluginParam129
+!›PluginEffect::PluginParam130
+!ﬁPluginEffect::PluginParam131
+!ﬂPluginEffect::PluginParam132
+!‡PluginEffect::PluginParam133
+!·PluginEffect::PluginParam134
+!‚PluginEffect::PluginParam135
+!„PluginEffect::PluginParam136
+!‰PluginEffect::PluginParam137
+!ÂPluginEffect::PluginParam138
+!ÊPluginEffect::PluginParam139
+!ÁPluginEffect::PluginParam140
+!ËPluginEffect::PluginParam141
+!ÈPluginEffect::PluginParam142
+!ÍPluginEffect::PluginParam143
+!ÎPluginEffect::PluginParam144
+!ÏPluginEffect::PluginParam145
+!ÌPluginEffect::PluginParam146
+!ÓPluginEffect::PluginParam147
+!ÔPluginEffect::PluginParam148
+!PluginEffect::PluginParam149
+!ÒPluginEffect::PluginParam150
+!ÚPluginEffect::PluginParam151
+!ÛPluginEffect::PluginParam152
+!ÙPluginEffect::PluginParam153
+!ıPluginEffect::PluginParam154
+!ˆPluginEffect::PluginParam155
+!˜PluginEffect::PluginParam156
+!¯PluginEffect::PluginParam157
+!˘PluginEffect::PluginParam158
+!˙PluginEffect::PluginParam159
+!˚PluginEffect::PluginParam160
+!¸PluginEffect::PluginParam161
+!˝PluginEffect::PluginParam162
+!˛PluginEffect::PluginParam163
+!ˇPluginEffect::PluginParam164
+!ÄPluginEffect::PluginParam165
+!ÅPluginEffect::PluginParam166
+!ÇPluginEffect::PluginParam167
+!ÉPluginEffect::PluginParam168
+!ÑPluginEffect::PluginParam169
+!ÖPluginEffect::PluginParam170
+!ÜPluginEffect::PluginParam171
+!áPluginEffect::PluginParam172
+!àPluginEffect::PluginParam173
+!âPluginEffect::PluginParam174
+!äPluginEffect::PluginParam175
+!ãPluginEffect::PluginParam176
+!åPluginEffect::PluginParam177
+!çPluginEffect::PluginParam178
+!éPluginEffect::PluginParam179
+!èPluginEffect::PluginParam180
+!êPluginEffect::PluginParam181
+!ëPluginEffect::PluginParam182
+!íPluginEffect::PluginParam183
+!ìPluginEffect::PluginParam184
+!îPluginEffect::PluginParam185
+!ïPluginEffect::PluginParam186
+!ñPluginEffect::PluginParam187
+!óPluginEffect::PluginParam188
+!òPluginEffect::PluginParam189
+!ôPluginEffect::PluginParam190
+!öPluginEffect::PluginParam191
+!õPluginEffect::PluginParam192
+!úPluginEffect::PluginParam193
+!ùPluginEffect::PluginParam194
+!ûPluginEffect::PluginParam195
+!üPluginEffect::PluginParam196
+!†PluginEffect::PluginParam197
+!°PluginEffect::PluginParam198
+!¢PluginEffect::PluginParam199
+!£PluginEffect::PluginParam200
+!§PluginEffect::PluginParam201
+!•PluginEffect::PluginParam202
+!¶PluginEffect::PluginParam203
+!ßPluginEffect::PluginParam204
+!®PluginEffect::PluginParam205
+!©PluginEffect::PluginParam206
+!™PluginEffect::PluginParam207
+!´PluginEffect::PluginParam208
+!¨PluginEffect::PluginParam209
+!≠PluginEffect::PluginParam210
+!ÆPluginEffect::PluginParam211
+!ØPluginEffect::PluginParam212
+!∞PluginEffect::PluginParam213
+!±PluginEffect::PluginParam214
+!≤PluginEffect::PluginParam215
+!≥PluginEffect::PluginParam216
+!¥PluginEffect::PluginParam217
+!µPluginEffect::PluginParam218
+!∂PluginEffect::PluginParam219
+!∑PluginEffect::PluginParam220
+!∏PluginEffect::PluginParam221
+!πPluginEffect::PluginParam222
+!∫PluginEffect::PluginParam223
+!ªPluginEffect::PluginParam224
+!ºPluginEffect::PluginParam225
+!ΩPluginEffect::PluginParam226
+!æPluginEffect::PluginParam227
+!øPluginEffect::PluginParam228
+!¿PluginEffect::PluginParam229
+!¡PluginEffect::PluginParam230
+!¬PluginEffect::PluginParam231
+!√PluginEffect::PluginParam232
+!ƒPluginEffect::PluginParam233
+!≈PluginEffect::PluginParam234
+!∆PluginEffect::PluginParam235
+!«PluginEffect::PluginParam236
+!»PluginEffect::PluginParam237
+!…PluginEffect::PluginParam238
+! PluginEffect::PluginParam239
+!ÀPluginEffect::PluginParam240
+!ÃPluginEffect::PluginParam241
+!ÕPluginEffect::PluginParam242
+!ŒPluginEffect::PluginParam243
+!œPluginEffect::PluginParam244
+!–PluginEffect::PluginParam245
+!—PluginEffect::PluginParam246
+!“PluginEffect::PluginParam247
+!”PluginEffect::PluginParam248
+!‘PluginEffect::PluginParam249
+!’PluginEffect::PluginParam250
+!÷PluginEffect::PluginParam251
+!◊PluginEffect::PluginParam252
+!ÿPluginEffect::PluginParam253
+!ŸPluginEffect::PluginParam254
+!⁄PluginEffect::PluginParam255
+€MIDIEffect::Bypass
+#‹PluginMIDIEffect::PluginParam0
+#›PluginMIDIEffect::PluginParam1
+#ﬁPluginMIDIEffect::PluginParam2
+#ﬂPluginMIDIEffect::PluginParam3
+#‡PluginMIDIEffect::PluginParam4
+#·PluginMIDIEffect::PluginParam5
+#‚PluginMIDIEffect::PluginParam6
+#„PluginMIDIEffect::PluginParam7
+#‰PluginMIDIEffect::PluginParam8
+#ÂPluginMIDIEffect::PluginParam9
+$ÊPluginMIDIEffect::PluginParam10
+$ÁPluginMIDIEffect::PluginParam11
+$ËPluginMIDIEffect::PluginParam12
+$ÈPluginMIDIEffect::PluginParam13
+$ÍPluginMIDIEffect::PluginParam14
+$ÎPluginMIDIEffect::PluginParam15
+$ÏPluginMIDIEffect::PluginParam16
+$ÌPluginMIDIEffect::PluginParam17
+$ÓPluginMIDIEffect::PluginParam18
+$ÔPluginMIDIEffect::PluginParam19
+$PluginMIDIEffect::PluginParam20
+$ÒPluginMIDIEffect::PluginParam21
+$ÚPluginMIDIEffect::PluginParam22
+$ÛPluginMIDIEffect::PluginParam23
+$ÙPluginMIDIEffect::PluginParam24
+$ıPluginMIDIEffect::PluginParam25
+$ˆPluginMIDIEffect::PluginParam26
+$˜PluginMIDIEffect::PluginParam27
+$¯PluginMIDIEffect::PluginParam28
+$˘PluginMIDIEffect::PluginParam29
+$˙PluginMIDIEffect::PluginParam30
+$˚PluginMIDIEffect::PluginParam31
+$¸PluginMIDIEffect::PluginParam32
+$˝PluginMIDIEffect::PluginParam33
+$˛PluginMIDIEffect::PluginParam34
+$ˇPluginMIDIEffect::PluginParam35
+$ÄPluginMIDIEffect::PluginParam36
+$ÅPluginMIDIEffect::PluginParam37
+$ÇPluginMIDIEffect::PluginParam38
+$ÉPluginMIDIEffect::PluginParam39
+$ÑPluginMIDIEffect::PluginParam40
+$ÖPluginMIDIEffect::PluginParam41
+$ÜPluginMIDIEffect::PluginParam42
+$áPluginMIDIEffect::PluginParam43
+$àPluginMIDIEffect::PluginParam44
+$âPluginMIDIEffect::PluginParam45
+$äPluginMIDIEffect::PluginParam46
+$ãPluginMIDIEffect::PluginParam47
+$åPluginMIDIEffect::PluginParam48
+$çPluginMIDIEffect::PluginParam49
+$éPluginMIDIEffect::PluginParam50
+$èPluginMIDIEffect::PluginParam51
+$êPluginMIDIEffect::PluginParam52
+$ëPluginMIDIEffect::PluginParam53
+$íPluginMIDIEffect::PluginParam54
+$ìPluginMIDIEffect::PluginParam55
+$îPluginMIDIEffect::PluginParam56
+$ïPluginMIDIEffect::PluginParam57
+$ñPluginMIDIEffect::PluginParam58
+$óPluginMIDIEffect::PluginParam59
+$òPluginMIDIEffect::PluginParam60
+$ôPluginMIDIEffect::PluginParam61
+$öPluginMIDIEffect::PluginParam62
+$õPluginMIDIEffect::PluginParam63
+$úPluginMIDIEffect::PluginParam64
+$ùPluginMIDIEffect::PluginParam65
+$ûPluginMIDIEffect::PluginParam66
+$üPluginMIDIEffect::PluginParam67
+$†PluginMIDIEffect::PluginParam68
+$°PluginMIDIEffect::PluginParam69
+$¢PluginMIDIEffect::PluginParam70
+$£PluginMIDIEffect::PluginParam71
+$§PluginMIDIEffect::PluginParam72
+$•PluginMIDIEffect::PluginParam73
+$¶PluginMIDIEffect::PluginParam74
+$ßPluginMIDIEffect::PluginParam75
+$®PluginMIDIEffect::PluginParam76
+$©PluginMIDIEffect::PluginParam77
+$™PluginMIDIEffect::PluginParam78
+$´PluginMIDIEffect::PluginParam79
+$¨PluginMIDIEffect::PluginParam80
+$≠PluginMIDIEffect::PluginParam81
+$ÆPluginMIDIEffect::PluginParam82
+$ØPluginMIDIEffect::PluginParam83
+$∞PluginMIDIEffect::PluginParam84
+$±PluginMIDIEffect::PluginParam85
+$≤PluginMIDIEffect::PluginParam86
+$≥PluginMIDIEffect::PluginParam87
+$¥PluginMIDIEffect::PluginParam88
+$µPluginMIDIEffect::PluginParam89
+$∂PluginMIDIEffect::PluginParam90
+$∑PluginMIDIEffect::PluginParam91
+$∏PluginMIDIEffect::PluginParam92
+$πPluginMIDIEffect::PluginParam93
+$∫PluginMIDIEffect::PluginParam94
+$ªPluginMIDIEffect::PluginParam95
+$ºPluginMIDIEffect::PluginParam96
+$ΩPluginMIDIEffect::PluginParam97
+$æPluginMIDIEffect::PluginParam98
+$øPluginMIDIEffect::PluginParam99
+%¿ PluginMIDIEffect::PluginParam100
+%¡ PluginMIDIEffect::PluginParam101
+%¬ PluginMIDIEffect::PluginParam102
+%√ PluginMIDIEffect::PluginParam103
+%ƒ PluginMIDIEffect::PluginParam104
+%≈ PluginMIDIEffect::PluginParam105
+%∆ PluginMIDIEffect::PluginParam106
+%« PluginMIDIEffect::PluginParam107
+%» PluginMIDIEffect::PluginParam108
+%… PluginMIDIEffect::PluginParam109
+%  PluginMIDIEffect::PluginParam110
+%À PluginMIDIEffect::PluginParam111
+%Ã PluginMIDIEffect::PluginParam112
+%Õ PluginMIDIEffect::PluginParam113
+%Œ PluginMIDIEffect::PluginParam114
+%œ PluginMIDIEffect::PluginParam115
+%– PluginMIDIEffect::PluginParam116
+%— PluginMIDIEffect::PluginParam117
+%“ PluginMIDIEffect::PluginParam118
+%” PluginMIDIEffect::PluginParam119
+%‘ PluginMIDIEffect::PluginParam120
+%’ PluginMIDIEffect::PluginParam121
+%÷ PluginMIDIEffect::PluginParam122
+%◊ PluginMIDIEffect::PluginParam123
+%ÿ PluginMIDIEffect::PluginParam124
+%Ÿ PluginMIDIEffect::PluginParam125
+%⁄ PluginMIDIEffect::PluginParam126
+%€ PluginMIDIEffect::PluginParam127
+%‹ PluginMIDIEffect::PluginParam128
+%› PluginMIDIEffect::PluginParam129
+%ﬁ PluginMIDIEffect::PluginParam130
+%ﬂ PluginMIDIEffect::PluginParam131
+%‡ PluginMIDIEffect::PluginParam132
+%· PluginMIDIEffect::PluginParam133
+%‚ PluginMIDIEffect::PluginParam134
+%„ PluginMIDIEffect::PluginParam135
+%‰ PluginMIDIEffect::PluginParam136
+%Â PluginMIDIEffect::PluginParam137
+%Ê PluginMIDIEffect::PluginParam138
+%Á PluginMIDIEffect::PluginParam139
+%Ë PluginMIDIEffect::PluginParam140
+%È PluginMIDIEffect::PluginParam141
+%Í PluginMIDIEffect::PluginParam142
+%Î PluginMIDIEffect::PluginParam143
+%Ï PluginMIDIEffect::PluginParam144
+%Ì PluginMIDIEffect::PluginParam145
+%Ó PluginMIDIEffect::PluginParam146
+%Ô PluginMIDIEffect::PluginParam147
+% PluginMIDIEffect::PluginParam148
+%Ò PluginMIDIEffect::PluginParam149
+%Ú PluginMIDIEffect::PluginParam150
+%Û PluginMIDIEffect::PluginParam151
+%Ù PluginMIDIEffect::PluginParam152
+%ı PluginMIDIEffect::PluginParam153
+%ˆ PluginMIDIEffect::PluginParam154
+%˜ PluginMIDIEffect::PluginParam155
+%¯ PluginMIDIEffect::PluginParam156
+%˘ PluginMIDIEffect::PluginParam157
+%˙ PluginMIDIEffect::PluginParam158
+%˚ PluginMIDIEffect::PluginParam159
+%¸ PluginMIDIEffect::PluginParam160
+%˝ PluginMIDIEffect::PluginParam161
+%˛ PluginMIDIEffect::PluginParam162
+%ˇ PluginMIDIEffect::PluginParam163
+%Ä PluginMIDIEffect::PluginParam164
+%Å PluginMIDIEffect::PluginParam165
+%Ç PluginMIDIEffect::PluginParam166
+%É PluginMIDIEffect::PluginParam167
+%Ñ PluginMIDIEffect::PluginParam168
+%Ö PluginMIDIEffect::PluginParam169
+%Ü PluginMIDIEffect::PluginParam170
+%á PluginMIDIEffect::PluginParam171
+%à PluginMIDIEffect::PluginParam172
+%â PluginMIDIEffect::PluginParam173
+%ä PluginMIDIEffect::PluginParam174
+%ã PluginMIDIEffect::PluginParam175
+%å PluginMIDIEffect::PluginParam176
+%ç PluginMIDIEffect::PluginParam177
+%é PluginMIDIEffect::PluginParam178
+%è PluginMIDIEffect::PluginParam179
+%ê PluginMIDIEffect::PluginParam180
+%ë PluginMIDIEffect::PluginParam181
+%í PluginMIDIEffect::PluginParam182
+%ì PluginMIDIEffect::PluginParam183
+%î PluginMIDIEffect::PluginParam184
+%ï PluginMIDIEffect::PluginParam185
+%ñ PluginMIDIEffect::PluginParam186
+%ó PluginMIDIEffect::PluginParam187
+%ò PluginMIDIEffect::PluginParam188
+%ô PluginMIDIEffect::PluginParam189
+%ö PluginMIDIEffect::PluginParam190
+%õ PluginMIDIEffect::PluginParam191
+%ú PluginMIDIEffect::PluginParam192
+%ù PluginMIDIEffect::PluginParam193
+%û PluginMIDIEffect::PluginParam194
+%ü PluginMIDIEffect::PluginParam195
+%† PluginMIDIEffect::PluginParam196
+%° PluginMIDIEffect::PluginParam197
+%¢ PluginMIDIEffect::PluginParam198
+%£ PluginMIDIEffect::PluginParam199
+%§ PluginMIDIEffect::PluginParam200
+%• PluginMIDIEffect::PluginParam201
+%¶ PluginMIDIEffect::PluginParam202
+%ß PluginMIDIEffect::PluginParam203
+%® PluginMIDIEffect::PluginParam204
+%© PluginMIDIEffect::PluginParam205
+%™ PluginMIDIEffect::PluginParam206
+%´ PluginMIDIEffect::PluginParam207
+%¨ PluginMIDIEffect::PluginParam208
+%≠ PluginMIDIEffect::PluginParam209
+%Æ PluginMIDIEffect::PluginParam210
+%Ø PluginMIDIEffect::PluginParam211
+%∞ PluginMIDIEffect::PluginParam212
+%± PluginMIDIEffect::PluginParam213
+%≤ PluginMIDIEffect::PluginParam214
+%≥ PluginMIDIEffect::PluginParam215
+%¥ PluginMIDIEffect::PluginParam216
+%µ PluginMIDIEffect::PluginParam217
+%∂ PluginMIDIEffect::PluginParam218
+%∑ PluginMIDIEffect::PluginParam219
+%∏ PluginMIDIEffect::PluginParam220
+%π PluginMIDIEffect::PluginParam221
+%∫ PluginMIDIEffect::PluginParam222
+%ª PluginMIDIEffect::PluginParam223
+%º PluginMIDIEffect::PluginParam224
+%Ω PluginMIDIEffect::PluginParam225
+%æ PluginMIDIEffect::PluginParam226
+%ø PluginMIDIEffect::PluginParam227
+%¿ PluginMIDIEffect::PluginParam228
+%¡ PluginMIDIEffect::PluginParam229
+%¬ PluginMIDIEffect::PluginParam230
+%√ PluginMIDIEffect::PluginParam231
+%ƒ PluginMIDIEffect::PluginParam232
+%≈ PluginMIDIEffect::PluginParam233
+%∆ PluginMIDIEffect::PluginParam234
+%« PluginMIDIEffect::PluginParam235
+%» PluginMIDIEffect::PluginParam236
+%… PluginMIDIEffect::PluginParam237
+%  PluginMIDIEffect::PluginParam238
+%À PluginMIDIEffect::PluginParam239
+%Ã PluginMIDIEffect::PluginParam240
+%Õ PluginMIDIEffect::PluginParam241
+%Œ PluginMIDIEffect::PluginParam242
+%œ PluginMIDIEffect::PluginParam243
+%– PluginMIDIEffect::PluginParam244
+%— PluginMIDIEffect::PluginParam245
+%“ PluginMIDIEffect::PluginParam246
+%” PluginMIDIEffect::PluginParam247
+%‘ PluginMIDIEffect::PluginParam248
+%’ PluginMIDIEffect::PluginParam249
+%÷ PluginMIDIEffect::PluginParam250
+%◊ PluginMIDIEffect::PluginParam251
+%ÿ PluginMIDIEffect::PluginParam252
+%Ÿ PluginMIDIEffect::PluginParam253
+%⁄ PluginMIDIEffect::PluginParam254
+%€ PluginMIDIEffect::PluginParam255
+‹Engine::InputSamplingRate
+›Engine::OutputSamplingRate
+ﬁEngine::PPQN
+ﬂEngine::Tempo
+‡Engine::DisplayTempo
+·Engine::SigNum
+‚Engine::SigDen
+„Engine::Click
+‰Engine::ClickOnRecord
+ÂEngine::Usage
+ÊEngine::EventLatency
+ÁEngine::SelectedBankIndex
+ËEngine::EventMode
+ÈEngine::SelectMode
+ÍEngine::Velocity
+ÎEngine::MasterVolume
+ÏEngine::MasterTune
+ÌEngine::BanksPerGroup
+ÓEngine::BankGroup
+ÔSequencer::Playing
+Sequencer::Following
+ÒSequencer::PlayingScene
+ÚSequencer::Recording
+#ÛSequencer::AutomationRecording
+(Ù#Sequencer::ReEnableAutomationOnLoop
+ıSequencer::CurrentScene
+ˆSequencer::NextScene
+˜Sequencer::SceneSync
+¯Sequencer::DurationBars
+˘Sequencer::Position
+˙Sequencer::StartPosition
+˚Sequencer::Looped
+¸Sequencer::LoopDuration
+˝Sequencer::QJumpPosition
+˛Sequencer::Revision
+ ˇSequencer::LastTakeRevision
+ÄSequencer::Sync
+ÅSequencer::Swing
+ÇSequencer::SwingSync
+ÉSequencer::SwingAmount
+ÑSequencer::SwingInverted
+ÖSequencer::Quantized
+ÜSequencer::QuantizedOnPlay
+áSequencer::QuantizeSync
+%à Sequencer::QuantizeNotesDuration
+#âSequencer::AutomationQuantized
+äSequencer::AutomationSync
+ãSequencer::Overdub
+åSequencer::Erasing
+çSequencer::PreRollBars
+éSequencer::PreRollTicks
+èSequencer::PreRollEnabled
+êSequencer::RepeatSync0
+ëSequencer::RepeatSync1
+íSequencer::RepeatSync2
+ìSequencer::RepeatSync3
+îSequencer::RepeatSync4
+ïSequencer::RepeatSync5
+ñSequencer::RepeatSwing
+óSequencer::RepeatSwing0
+òSequencer::RepeatSwing1
+ôSequencer::RepeatSwing2
+öSequencer::RepeatSwing3
+õSequencer::RepeatSwing4
+úSequencer::RepeatSwing5
+ùSequencer::Repeat
+ûSequencer::RepeatVelocity
+üSequencer::RepeatSyncIndex
+"†Sequencer::DefaultPatternBars
+°Sequencer::LastBeatStart
+¢Sequencer::LastBeatEnd
+£Sequencer::MaxBeatEnd
+§Sequencer::LastTrackStart
+•Sequencer::LastTrackEnd
+¶Sequencer::AutoSync
+ßSequencer::EditingSync
+®Sequencer::Page
+©Sequencer::PageSize
+"™Sequencer::AutomationDisabled
+´BMEngine::LinkIsEnabled
+¨BMEngine::LinkTempo
+≠BMEngine::LinkIsPlaying
+ÆPattern::PatternID
+ØPattern::Playing
+∞Pattern::Position
+±Pattern::Looped
+≤Pattern::Duration
+≥Pattern::DurationBars
+¥Pattern::LastBeatStart
+µPattern::LastBeatEnd
+∂Pattern::LastKeyStart
+∑Pattern::LastKeyEnd
+∏Pattern::LastPadStart
+πPattern::LastPadEnd
+∫Pattern::AutoSync
+ªPattern::EditingSync
+ºPattern::SwingAmount
+ΩPattern::SwingInverted
+æPattern::SwingSync
+ øPattern::SelectedAutomation
+¿Pattern::SelectedMIDIParam
+!¡Pattern::EditedMIDIEventType
+%¬ Pattern::EditedMIDIControlChange
+√Pattern::QuantizeSync
+ƒPattern::QuantizeSwing
+≈Scene::SceneID
+∆Scene::Playing
+«Scene::Position
+»Scene::Duration
+…Scene::Start
+ Scene::DurationBars
+ÀAutomation::Path
+ÃAutomation::Parameter
+ÕAutomation::Disabled
+ŒMacroControl::Ratio
+!œMacroControlRoute::ParamPath
+!–MacroControlRoute::ParamName
+*—%MacroControlRoute::MacroControlNumber
+ “MacroControlRoute::RatioMin
+ ”MacroControlRoute::RatioMax
+%‘ MacroControlRoute::UseParamRange
+’Bank::BankIndex
+÷Bank::SelectedPadIndex
+◊Bank::PadKeyMode
+ÿBank::ShowKeyboard
+ŸBank::FixedVelocity
+⁄Bank::PadsPageIndex
+€Bank::PadsPageSize
+‹Bank::MIDIInputMode
+›Bank::MIDIOutputMode
+ﬁAudioTrack::InputGain
+$ﬂAudioTrack::InternalProgramPath
+‡AuxTrack::AuxNumber
+·HardwareInTrack::Active
+‚HardwareInTrack::InputGain
+!„HardwareInTrack::GateEnabled
+#‰HardwareInTrack::GateThreshold
+"ÂHardwareInTrack::GateHoldTime
+$ÊHardwareInTrack::GateAttackTime
+%Á HardwareInTrack::GateReleaseTime
+ËPad::ChokeGroup
+ÈPad::LinkGroup
+ÍPad::BaseKey
+ÎPad::ChordType
+ÏPad::ScaleType
+ÌPad::ArpMode
+ÓPad::ArpRange
+ÔPad::Velocity
+Pad::FixedMIDIVelocity
+ÒPad::SelectedNote
+ÚPad::PitchWheelValue
+ÛPad::ModWheelValue
+ÙPad::SustainPedalValue
+ıPad::UIKeyboardStartKey
+ˆPad::UIKeyboardEndKey
+˜Pad::UIKeyboard2StartKey
+¯Pad::UIKeyboard2EndKey
+˘Pad::UIKeyboardVelocity
+˙Pad::UIDoubleKeyboard
+˚Sampler::Polyphony
+ ¸Sampler::SelectedLayerIndex
+˝Layer::EngineType
+˛Layer::Gain
+ˇ
+Layer::Pan
+ÄLayer::Tune
+ÅLayer::FineTune
+ÇLayer::GlideTune
+ÉLayer::Reverse
+ÑLayer::Polyphony
+ÖLayer::TriggerMode
+ÜLayer::StealingMethod
+áLayer::Legato
+àLayer::ActiveVoices
+âLayer::SelectedSourceIndex
+äLayer::Mute
+ãLayer::Solo
+åLayer::Folded
+çLayer::WarpQuality
+éPreview::Playing
+èPreview::Volume
+êSampleSource::Type
+ëSampleSource::SamplePath
+ íSampleSource::UseSampleInfo
+!ìSampleSource::SampleRevision
+îSampleSource::Streaming
+ïSampleSource::SampleStart
+ñSampleSource::SampleEnd
+óSampleSource::LoopStart
+òSampleSource::LoopEnd
+ôSampleSource::LoopType
+öSampleSource::Volume
+õSampleSource::Pan
+úSampleSource::Tune
+ ùSampleSource::XFadeDuration
+ûSampleSource::XFadeLength
+üSampleSource::XFadeBend
+†SampleSource::Tempo
+°SampleSource::SigNum
+¢SampleSource::SigDen
+£SampleSource::Warp
+§SampleSource::WarpQuality
+•SampleSource::StretchRatio
+¶SampleSource::SliceCount
+ßSampleSource::SliceOffset
+®SampleSource::FadeOutTime
+©SampleSource::VisibleStart
+™SampleSource::VisibleEnd
+ ´SampleSource::SelectedStart
+¨SampleSource::SelectedEnd
+"≠AUInstrument::AUComponentType
+%Æ AUInstrument::AUComponentSubType
+*Ø%AUInstrument::AUComponentManufacturer
+∞AUInstrument::AUID
+±AUInstrument::UIParamSlot0
+≤AUInstrument::UIParamSlot1
+≥AUInstrument::UIParamSlot2
+¥AUInstrument::UIParamSlot3
+µAUInstrument::UIParamSlot4
+∂AUInstrument::UIParamSlot5
+∑AUInstrument::UIParamSlot6
+∏AUInstrument::UIParamSlot7
+πAUInstrument::UIParamSlot8
+∫AUInstrument::UIParamSlot9
+ ªAUInstrument::UIParamSlot10
+ ºAUInstrument::UIParamSlot11
+ ΩAUInstrument::UIParamSlot12
+ æAUInstrument::UIParamSlot13
+ øAUInstrument::UIParamSlot14
+ ¿AUInstrument::UIParamSlot15
+¡AUEffect::AUComponentType
+!¬AUEffect::AUComponentSubType
+&√!AUEffect::AUComponentManufacturer
+ƒAUEffect::AUID
+≈AUEffect::UIParamSlot0
+∆AUEffect::UIParamSlot1
+«AUEffect::UIParamSlot2
+»AUEffect::UIParamSlot3
+…AUEffect::UIParamSlot4
+ AUEffect::UIParamSlot5
+ÀAUEffect::UIParamSlot6
+ÃAUEffect::UIParamSlot7
+ÕAUEffect::UIParamSlot8
+ŒAUEffect::UIParamSlot9
+œAUEffect::UIParamSlot10
+–AUEffect::UIParamSlot11
+—AUEffect::UIParamSlot12
+“AUEffect::UIParamSlot13
+”AUEffect::UIParamSlot14
+‘AUEffect::UIParamSlot15
+"’AUMIDIEffect::AUComponentType
+%÷ AUMIDIEffect::AUComponentSubType
+*◊%AUMIDIEffect::AUComponentManufacturer
+ÿAUMIDIEffect::AUID
+ŸAUMIDIEffect::UIParamSlot0
+⁄AUMIDIEffect::UIParamSlot1
+€AUMIDIEffect::UIParamSlot2
+‹AUMIDIEffect::UIParamSlot3
+›AUMIDIEffect::UIParamSlot4
+ﬁAUMIDIEffect::UIParamSlot5
+ﬂAUMIDIEffect::UIParamSlot6
+‡AUMIDIEffect::UIParamSlot7
+·AUMIDIEffect::UIParamSlot8
+‚AUMIDIEffect::UIParamSlot9
+ „AUMIDIEffect::UIParamSlot10
+ ‰AUMIDIEffect::UIParamSlot11
+ ÂAUMIDIEffect::UIParamSlot12
+ ÊAUMIDIEffect::UIParamSlot13
+ ÁAUMIDIEffect::UIParamSlot14
+ ËAUMIDIEffect::UIParamSlot15
+#ÈIAAInstrument::AUComponentType
+&Í!IAAInstrument::AUComponentSubType
++Î&IAAInstrument::AUComponentManufacturer
+ÏIAAInstrument::AUID
+ÌIAAInstrument::PeerURL
+ÓIAAEffect::AUComponentType
+"ÔIAAEffect::AUComponentSubType
+'"IAAEffect::AUComponentManufacturer
+ÒIAAEffect::PeerURL
+)Ú$AudiobusInstrument::AudiobusUniqueID
+ÛModulatorRoute::Active
+ÙModulatorRoute::Bypass
+"ıModulatorRoute::ModulatorPath
+%ˆ ModulatorRoute::ModulatedParamID
+˜ModulatorRoute::Ratio
+¯ModulatorRoute::Static
+˘LFO::LFOType
+˙LFO::Monophonic
+˚	LFO::Rate
+¸
+LFO::Phase
+˝LFO::FadeIn
+˛LFO::SyncIndex
+ˇLFO::Bipolar
+Ä	AHDSR::AHDMode
+Å	AHDSR::Retrigger
+Ç	AHDSR::Attack
+É	AHDSR::Hold
+Ñ	AHDSR::Decay
+Ö	AHDSR::Sustain
+Ü	AHDSR::Release
+á	AHDSR::AttackCurve
+à	AHDSR::DecayCurve
+â	AHDSR::ReleaseCurve
+ä	Portamento::GlideTime
+ã	Glide::GlideTime
+å	Glide::UseVelocity
+ç	StepModulator::Steps
+é	StepModulator::Rate
+è	StepModulator::SyncIndex
+ê	StepModulator::Monophonic
+ë	StepModulator::OneShot
+í	StepModulator::Roughness
+ì	StepModulator::GridMode
+#î	MidiControlChangeModulator::CC
+ï	RandomSH::WhiteNoise
+ñ	RandomSH::Rate
+ó	RandomSH::SyncIndex
+ò	RandomSH::Monophonic
+ô	RandomSH::Roughness
+ö	RandomSH::UseRate
+õ	Dynamics::Threshold
+ú	Dynamics::Attack
+ù	Dynamics::Release
+û	Dynamics::Ratio
+ü	Dynamics::OutputGain
+†	Dynamics::Ceiling
+°	Dynamics::KneeWidth
+¢	Dynamics::Mode
+£	Dynamics::TimeConstant
+§	Dynamics::GainReduction
+•	Dynamics::SideChain
+¶	Dynamics::LookAheadActive
+ß	Dynamics::LookAheadTime
+®	Saturator::Amount
+©	Saturator::OutputGain
+™	BitCrusher::Bits
+´	BitCrusher::Frequency
+¨	Reverb::Wet
+≠	Reverb::Dry
+Æ	Reverb::RoomSize
+Ø	Reverb::Damp
+∞	Reverb::Width
+±	StereoDelay::SyncIndexL
+≤	StereoDelay::SyncIndexR
+≥	StereoDelay::FeedbackLeft
+¥	StereoDelay::FeedbackRight
+µ	StereoDelay::WetMixLeft
+∂	StereoDelay::WetMixRight
+∑	StereoDelay::CrossfeedLeft
+ ∏	StereoDelay::CrossfeedRight
+π	StereoDelay::LoCut
+∫	StereoDelay::HiCut
+ª	StereoDelay::LinkWetMix
+º	StereoDelay::SyncModeL
+Ω	StereoDelay::SyncModeR
+æ	StereoDelay::TimeL
+ø	StereoDelay::TimeR
+¿	Slicer::SyncIndex
+¡	Overdrive::Amount
+¬	Overdrive::Damp
+√	Overdrive::OutputGain
+ƒ	Delay::SyncIndex
+≈	Delay::Feedback
+∆	Delay::WetDry
+«	Delay::FilterType
+»	Delay::FilterFreq
+…	Delay::FilterReso
+ 	Delay::SyncMode
+À	Delay::Time
+Ã	ModulationDelay::Mode
+Õ	ModulationDelay::Depth
+Œ	ModulationDelay::Rate
+œ	ModulationDelay::Feedback
+–	ModulationDelay::LFOType
+!—	ModulationDelay::ChorusDelay
+“	StereoWidener::Width
+”	SVFilter::SVF0Type
+‘	SVFilter::SVF0Freq
+’	SVFilter::SVF0Reso
+÷	SVFilter::SVF0Gain
+◊	SVFilter6::SVF0Type
+ÿ	SVFilter6::SVF0Freq
+Ÿ	SVFilter6::SVF0Reso
+⁄	SVFilter6::SVF0Gain
+€	SVFilter6::SVF1Type
+‹	SVFilter6::SVF1Freq
+›	SVFilter6::SVF1Reso
+ﬁ	SVFilter6::SVF1Gain
+ﬂ	SVFilter6::SVF2Type
+‡	SVFilter6::SVF2Freq
+·	SVFilter6::SVF2Reso
+‚	SVFilter6::SVF2Gain
+„	SVFilter6::SVF3Type
+‰	SVFilter6::SVF3Freq
+Â	SVFilter6::SVF3Reso
+Ê	SVFilter6::SVF3Gain
+Á	SVFilter6::SVF4Type
+Ë	SVFilter6::SVF4Freq
+È	SVFilter6::SVF4Reso
+Í	SVFilter6::SVF4Gain
+Î	SVFilter6::SVF5Type
+Ï	SVFilter6::SVF5Freq
+Ì	SVFilter6::SVF5Reso
+Ó	SVFilter6::SVF5Gain
+Ô	SVFilter6::SelectedFilter
+	MVerb::DampingFreq
+Ò	MVerb::BandwidthFreq
+Ú	MVerb::PreDelay
+Û	MVerb::Density
+Ù	MVerb::Decay
+ı	MVerb::Size
+ˆ	MVerb::Gain
+˜	MVerb::EarlyMix
+¯	
+MVerb::Mix
+˘	MVerb::PreDelayUI
+˙	PhaseInvert::InvertLeft
+˚	PhaseInvert::InvertRight
+¸	AutoPan::LFOType
+˝	AutoPan::Depth
+˛	AutoPan::Rate
+ˇ	AutoPan::SyncIndex
+Ä
+AutoPan::SyncMode
+Å
+AutoPan::PhaseTS4  (2ä˝
+Bank
+Track::ArmEvents      ?"
+Track::RecordingPattern      ø!
+Track::SelectedPattern       ¿
+Track::SelectedScene      @
+Track::NextScene      ¿
+Track::CurrentScene       ¿
+Track::NextPattern      ¿ 
+Track::CurrentPattern       ¿
+Track::PlayMode      ?
+Track::TrackID      @
+Program::MacroXY      ø
+Program::MacroPage      ?!
+Program::PreFaderSends      ?!
+Program::Send7PreFader        !
+Program::Send6PreFader        !
+Program::Send5PreFader        !
+Program::Send4PreFader        !
+Program::Send3PreFader        !
+Program::Send2PreFader        !
+Program::Send1PreFader        !
+Program::Send0PreFader        
+Program::Send7        
+Program::Send6        
+Program::Send5        
+Program::Send4        
+Program::Send3        
+Program::Send2        
+Program::Send1        
+Program::Send0        
+Program::Solo        
+Program::Mute        
+Program::Pan        
+Program::Volume>VœŸ\„Ô?
+Program::OutputBus1      ?
+Program::OutputBus0        
+Program::InputBus1      ø
+Program::InputBus0      ø
+Bank::MIDIOutputMode      ?%
+Program::MIDIOutputChannel      @
+Bank::MIDIInputMode        "
+Program::MIDIOutputPort   rˇH´A
+Bank::PadsPageSize      0@$
+Program::MIDIInputChannel      @
+Bank::PadsPageIndex      @!
+Program::MIDIInputPort  @ÈnÙŸA
+Bank::FixedVelocity     ¿_@
+Bank::ShowKeyboard        
+Bank::PadKeyMode        !
+Bank::SelectedPadIndex      M@
+Object::Color 
+Bank::BankIndex      @
+Object::PadOrder      ø
+Object::Order      @
+Object::DisplayNameTS4ë
+Object::PresetPath{/var/mobile/Containers/Data/Application/00C48D22-A24F-4A34-8268-81063C462DF7/Documents/Sessions/APC40_13/banks/TS4/TS4.bmk3
+Object::Nameb3‹
+MacroControl
+Object::Color 
+Object::PadOrder      ø
+Object::Order      .@
+MacroControl::Ratio      ?1
+Object::DisplayNameTS4 Volume Bus Group (FKM)
+Object::PresetPath 
+Object::Namemacro15∑
+MacroControlRoute+
+ MacroControlRoute::UseParamRange        &
+MacroControlRoute::RatioMax>VœŸ\„Ô?&
+MacroControlRoute::RatioMinı»¥√ÿÔ?
+Object::Color 0
+%MacroControlRoute::MacroControlNumber      .@
+Object::PadOrder      ø/
+MacroControlRoute::ParamNameProgram::Volume
+Object::Order        #
+MacroControlRoute::ParamPath/b3
+Object::DisplayNameVOLUME
+Object::PresetPath 
+Object::Namemacro_route0á
+Pad
+Program::MacroXY      ø
+Program::MacroPage        !
+Program::PreFaderSends        !
+Program::Send7PreFader        !
+Program::Send6PreFader        !
+Program::Send5PreFader        !
+Program::Send4PreFader        !
+Program::Send3PreFader        
+Pad::SelectedNote      H@!
+Program::Send2PreFader        !
+Pad::FixedMIDIVelocity      ?!
+Program::Send1PreFader        
+Pad::Velocity     ¿_@!
+Program::Send0PreFader        
+Pad::ArpRange      ?
+Program::Send7        
+Pad::ArpMode        
+Program::Send6        
+Pad::ScaleType      ø
+Program::Send5        
+Pad::ChordType      ø
+Program::Send4        
+Pad::BaseKey      H@
+Program::Send3        
+Pad::LinkGroup      ø
+Program::Send2        
+Pad::ChokeGroup      ø
+Program::Send1        
+Program::Send0        
+Program::Solo        
+Program::Mute        
+Program::Pan        
+Program::Volumeö Îë˝Ô?
+Program::OutputBus1      ø
+Program::OutputBus0      ø
+Program::InputBus1      ø
+Program::InputBus0      ø%
+Program::MIDIOutputChannel      @"
+Program::MIDIOutputPort       ¿$
+Program::MIDIInputChannel      ¿!
+Program::MIDIInputPort       ¿
+Object::Color	#ffff0000
+Object::PadOrder      ø
+Object::Order      H@
+Object::DisplayNameLOOP DX
+Object::PresetPath 
+Object::Namep48ª
+MacroControlRoute+
+ MacroControlRoute::UseParamRange        &
+MacroControlRoute::RatioMaxö Îë˝Ô?&
+MacroControlRoute::RatioMin        
+Object::Color 0
+%MacroControlRoute::MacroControlNumber      .@
+Object::PadOrder      ø/
+MacroControlRoute::ParamNameProgram::Volume
+Object::Order      ?'
+MacroControlRoute::ParamPath/b3/p48
+Object::DisplayNameVOLUME
+Object::PresetPath 
+Object::Namemacro_route0√
+Sampler
+Object::Color 
+Object::PadOrder      ø
+Object::Order      ø
+Object::DisplayNameSampler
+Sampler::Polyphony      @@
+Object::PresetPath 
+Object::Namesamplerá
+Pad
+Program::MacroXY      ø
+Program::MacroPage        !
+Program::PreFaderSends        !
+Program::Send7PreFader        !
+Program::Send6PreFader        !
+Program::Send5PreFader        !
+Program::Send4PreFader        !
+Program::Send3PreFader        
+Pad::SelectedNote      H@!
+Program::Send2PreFader        !
+Pad::FixedMIDIVelocity      ?!
+Program::Send1PreFader        
+Pad::Velocity     ¿_@!
+Program::Send0PreFader        
+Pad::ArpRange      ?
+Program::Send7        
+Pad::ArpMode        
+Program::Send6        
+Pad::ScaleType      ø
+Program::Send5        
+Pad::ChordType      ø
+Program::Send4        
+Pad::BaseKey     ÄH@
+Program::Send3        
+Pad::LinkGroup      ø
+Program::Send2        
+Pad::ChokeGroup      ø
+Program::Send1        
+Program::Send0        
+Program::Solo        
+Program::Mute        
+Program::Pan        
+Program::Volumeœ¡º˙°ÛÔ?
+Program::OutputBus1      ø
+Program::OutputBus0      ø
+Program::InputBus1      ø
+Program::InputBus0      ø%
+Program::MIDIOutputChannel      @"
+Program::MIDIOutputPort       ¿$
+Program::MIDIInputChannel      ¿!
+Program::MIDIInputPort       ¿
+Object::Color	#ff0071e5
+Object::PadOrder      ø
+Object::Order     ÄH@
+Object::DisplayNameLOOP DY
+Object::PresetPath 
+Object::Namep49ª
+MacroControlRoute+
+ MacroControlRoute::UseParamRange        &
+MacroControlRoute::RatioMaxœ¡º˙°ÛÔ?&
+MacroControlRoute::RatioMin        
+Object::Color 0
+%MacroControlRoute::MacroControlNumber      .@
+Object::PadOrder      ø/
+MacroControlRoute::ParamNameProgram::Volume
+Object::Order       @'
+MacroControlRoute::ParamPath/b3/p49
+Object::DisplayNameVOLUME
+Object::PresetPath 
+Object::Namemacro_route0√
+Sampler
+Object::Color 
+Object::PadOrder      ø
+Object::Order      ø
+Object::DisplayNameSampler
+Sampler::Polyphony      @@
+Object::PresetPath 
+Object::Namesamplerá
+Pad
+Program::MacroXY      ø
+Program::MacroPage        !
+Program::PreFaderSends        !
+Program::Send7PreFader        !
+Program::Send6PreFader        !
+Program::Send5PreFader        !
+Program::Send4PreFader        !
+Program::Send3PreFader        
+Pad::SelectedNote      H@!
+Program::Send2PreFader        !
+Pad::FixedMIDIVelocity      ?!
+Program::Send1PreFader        
+Pad::Velocity     ¿_@!
+Program::Send0PreFader        
+Pad::ArpRange      ?
+Program::Send7        
+Pad::ArpMode        
+Program::Send6        
+Pad::ScaleType      ø
+Program::Send5        
+Pad::ChordType      ø
+Program::Send4        
+Pad::BaseKey      I@
+Program::Send3        
+Pad::LinkGroup      ø
+Program::Send2        
+Pad::ChokeGroup      ø
+Program::Send1        
+Program::Send0        
+Program::Solo        
+Program::Mute        
+Program::Pan        
+Program::VolumeÏ9ÜÒÍÔ?
+Program::OutputBus1      ø
+Program::OutputBus0      ø
+Program::InputBus1      ø
+Program::InputBus0      ø%
+Program::MIDIOutputChannel      @"
+Program::MIDIOutputPort       ¿$
+Program::MIDIInputChannel      ¿!
+Program::MIDIInputPort       ¿
+Object::Color	#ff95ff72
+Object::PadOrder      ø
+Object::Order      I@
+Object::DisplayNameLOOP DZ
+Object::PresetPath 
+Object::Namep50ª
+MacroControlRoute+
+ MacroControlRoute::UseParamRange        &
+MacroControlRoute::RatioMaxÏ9ÜÒÍÔ?&
+MacroControlRoute::RatioMin        
+Object::Color 0
+%MacroControlRoute::MacroControlNumber      .@
+Object::PadOrder      ø/
+MacroControlRoute::ParamNameProgram::Volume
+Object::Order      @'
+MacroControlRoute::ParamPath/b3/p50
+Object::DisplayNameVOLUME
+Object::PresetPath 
+Object::Namemacro_route0√
+Sampler
+Object::Color 
+Object::PadOrder      ø
+Object::Order      ø
+Object::DisplayNameSampler
+Sampler::Polyphony      @@
+Object::PresetPath 
+Object::Namesamplerç
+Pad
+Program::MacroXY      ø
+Program::MacroPage        !
+Program::PreFaderSends        !
+Program::Send7PreFader        !
+Program::Send6PreFader        !
+Program::Send5PreFader        !
+Program::Send4PreFader        !
+Program::Send3PreFader        
+Pad::SelectedNote      N@!
+Program::Send2PreFader        !
+Pad::FixedMIDIVelocity        !
+Program::Send1PreFader        
+Pad::Velocity     ¿_@!
+Program::Send0PreFader        
+Pad::ArpRange      ?
+Program::Send7        
+Pad::ArpMode        
+Program::Send6        
+Pad::ScaleType      ø
+Program::Send5        
+Pad::ChordType      ø
+Program::Send4        
+Pad::BaseKey      N@
+Program::Send3        
+Pad::LinkGroup      ø
+Program::Send2        
+Pad::ChokeGroup      ø
+Program::Send1        
+Program::Send0        
+Program::Solo        
+Program::Mute        
+Program::Pan        
+Program::Volume        
+Program::OutputBus1      ø
+Program::OutputBus0      ø
+Program::InputBus1      ø
+Program::InputBus0      ø%
+Program::MIDIOutputChannel       ¿"
+Program::MIDIOutputPort        $
+Program::MIDIInputChannel       ¿!
+Program::MIDIInputPort        
+Object::Color	#ffb2bcc8
+Object::PadOrder      ø
+Object::Order     ÄI@$
+Object::DisplayNameCHOKE UTILITY
+Object::PresetPath 
+Object::Namep51ª
+MacroControlRoute+
+ MacroControlRoute::UseParamRange        &
+MacroControlRoute::RatioMax        &
+MacroControlRoute::RatioMin        
+Object::Color 0
+%MacroControlRoute::MacroControlNumber      .@
+Object::PadOrder      ø/
+MacroControlRoute::ParamNameProgram::Volume
+Object::Order      (@'
+MacroControlRoute::ParamPath/b3/p51
+Object::DisplayNameVOLUME
+Object::PresetPath 
+Object::Namemacro_route0√
+Sampler
+Object::Color 
+Object::PadOrder      ø
+Object::Order      ø
+Object::DisplayNameSampler
+Sampler::Polyphony      @@
+Object::PresetPath 
+Object::Namesamplerî
+Pad
+Program::MacroXY      ø
+Program::MacroPage        !
+Program::PreFaderSends        !
+Program::Send7PreFader        !
+Program::Send6PreFader        !
+Program::Send5PreFader        !
+Program::Send4PreFader        !
+Program::Send3PreFader        
+Pad::SelectedNote      N@!
+Program::Send2PreFader        !
+Pad::FixedMIDIVelocity        !
+Program::Send1PreFader        
+Pad::Velocity     ¿_@!
+Program::Send0PreFader        
+Pad::ArpRange      ?
+Program::Send7        
+Pad::ArpMode        
+Program::Send6        
+Pad::ScaleType      ø
+Program::Send5        
+Pad::ChordType      ø
+Program::Send4        
+Pad::BaseKey      N@
+Program::Send3        
+Pad::LinkGroup      ø
+Program::Send2        
+Pad::ChokeGroup      ø
+Program::Send1        
+Program::Send0        
+Program::Solo        
+Program::Mute        
+Program::Pan        
+Program::Volume,∆π£‰◊Ô?
+Program::OutputBus1      ø
+Program::OutputBus0      ø
+Program::InputBus1      ø
+Program::InputBus0      ø%
+Program::MIDIOutputChannel       ¿"
+Program::MIDIOutputPort        $
+Program::MIDIInputChannel       ¿!
+Program::MIDIInputPort        
+Object::Color	#ffb2bcc8
+Object::PadOrder      ø
+Object::Order      J@+
+Object::DisplayNameMIDI FX TRIG / OTHER
+Object::PresetPath 
+Object::Namep52ª
+MacroControlRoute+
+ MacroControlRoute::UseParamRange        &
+MacroControlRoute::RatioMax,∆π£‰◊Ô?&
+MacroControlRoute::RatioMin        
+Object::Color 0
+%MacroControlRoute::MacroControlNumber      .@
+Object::PadOrder      ø/
+MacroControlRoute::ParamNameProgram::Volume
+Object::Order      @'
+MacroControlRoute::ParamPath/b3/p52
+Object::DisplayNameVOLUME
+Object::PresetPath 
+Object::Namemacro_route0√
+Sampler
+Object::Color 
+Object::PadOrder      ø
+Object::Order      ø
+Object::DisplayNameSampler
+Sampler::Polyphony      @@
+Object::PresetPath 
+Object::Namesampler˘
+Pad
+Program::MacroXY      ø
+Program::MacroPage        !
+Program::PreFaderSends        !
+Program::Send7PreFader        !
+Program::Send6PreFader        !
+Program::Send5PreFader        !
+Program::Send4PreFader        !
+Program::Send3PreFader        
+Pad::SelectedNote      H@!
+Program::Send2PreFader        !
+Pad::FixedMIDIVelocity      ?!
+Program::Send1PreFader        
+Pad::Velocity     ¿_@!
+Program::Send0PreFader        
+Pad::ArpRange      ?
+Program::Send7        
+Pad::ArpMode        
+Program::Send6        
+Pad::ScaleType      ø
+Program::Send5        
+Pad::ChordType      ø
+Program::Send4        
+Pad::BaseKey     ÄJ@
+Program::Send3        
+Pad::LinkGroup      ø
+Program::Send2        
+Pad::ChokeGroup      ø
+Program::Send1        
+Program::Send0        
+Program::Solo        
+Program::Mute        
+Program::Pan        
+Program::Volume	>‰∆‚ÁÔ?
+Program::OutputBus1      ø
+Program::OutputBus0      ø
+Program::InputBus1      ø
+Program::InputBus0      ø%
+Program::MIDIOutputChannel      @"
+Program::MIDIOutputPort       ¿$
+Program::MIDIInputChannel      ¿!
+Program::MIDIInputPort       ¿
+Object::Color 
+Object::PadOrder      ø
+Object::Order     ÄJ@
+Object::DisplayNameP1
+Object::PresetPath 
+Object::Namep53ª
+MacroControlRoute+
+ MacroControlRoute::UseParamRange        &
+MacroControlRoute::RatioMax>‰∆‚ÁÔ?&
+MacroControlRoute::RatioMin        
+Object::Color 0
+%MacroControlRoute::MacroControlNumber      .@
+Object::PadOrder      ø/
+MacroControlRoute::ParamNameProgram::Volume
+Object::Order      @'
+MacroControlRoute::ParamPath/b3/p53
+Object::DisplayNameVOLUME
+Object::PresetPath 
+Object::Namemacro_route0√
+Sampler
+Object::Color 
+Object::PadOrder      ø
+Object::Order      ø
+Object::DisplayNameSampler
+Sampler::Polyphony      @@
+Object::PresetPath 
+Object::Namesampler˘
+Pad
+Program::MacroXY      ø
+Program::MacroPage        !
+Program::PreFaderSends        !
+Program::Send7PreFader        !
+Program::Send6PreFader        !
+Program::Send5PreFader        !
+Program::Send4PreFader        !
+Program::Send3PreFader        
+Pad::SelectedNote      H@!
+Program::Send2PreFader        !
+Pad::FixedMIDIVelocity      ?!
+Program::Send1PreFader        
+Pad::Velocity     ¿_@!
+Program::Send0PreFader        
+Pad::ArpRange      ?
+Program::Send7        
+Pad::ArpMode        
+Program::Send6        
+Pad::ScaleType      ø
+Program::Send5        
+Pad::ChordType      ø
+Program::Send4        
+Pad::BaseKey      K@
+Program::Send3        
+Pad::LinkGroup      ø
+Program::Send2        
+Pad::ChokeGroup      ø
+Program::Send1        
+Program::Send0        
+Program::Solo        
+Program::Mute        
+Program::Pan        
+Program::VolumeÄ,æoﬁÔ?
+Program::OutputBus1      ø
+Program::OutputBus0      ø
+Program::InputBus1      ø
+Program::InputBus0      ø%
+Program::MIDIOutputChannel      @"
+Program::MIDIOutputPort       ¿$
+Program::MIDIInputChannel      ¿!
+Program::MIDIInputPort       ¿
+Object::Color 
+Object::PadOrder      ø
+Object::Order      K@
+Object::DisplayNameP2
+Object::PresetPath 
+Object::Namep54ª
+MacroControlRoute+
+ MacroControlRoute::UseParamRange        &
+MacroControlRoute::RatioMaxÄ,æoﬁÔ?&
+MacroControlRoute::RatioMin        
+Object::Color 0
+%MacroControlRoute::MacroControlNumber      .@
+Object::PadOrder      ø/
+MacroControlRoute::ParamNameProgram::Volume
+Object::Order      @'
+MacroControlRoute::ParamPath/b3/p54
+Object::DisplayNameVOLUME
+Object::PresetPath 
+Object::Namemacro_route0√
+Sampler
+Object::Color 
+Object::PadOrder      ø
+Object::Order      ø
+Object::DisplayNameSampler
+Sampler::Polyphony      @@
+Object::PresetPath 
+Object::Namesampler˘
+Pad
+Program::MacroXY      ø
+Program::MacroPage        !
+Program::PreFaderSends        !
+Program::Send7PreFader        !
+Program::Send6PreFader        !
+Program::Send5PreFader        !
+Program::Send4PreFader        !
+Program::Send3PreFader        
+Pad::SelectedNote      H@!
+Program::Send2PreFader        !
+Pad::FixedMIDIVelocity      ?!
+Program::Send1PreFader        
+Pad::Velocity     ¿_@!
+Program::Send0PreFader        
+Pad::ArpRange      ?
+Program::Send7        
+Pad::ArpMode        
+Program::Send6        
+Pad::ScaleType      ø
+Program::Send5        
+Pad::ChordType      ø
+Program::Send4        
+Pad::BaseKey     ÄK@
+Program::Send3        
+Pad::LinkGroup      ø
+Program::Send2        
+Pad::ChokeGroup      ø
+Program::Send1        
+Program::Send0        
+Program::Solo        
+Program::Mute        
+Program::Pan        
+Program::VolumeπÁLi'˜Ô?
+Program::OutputBus1      ø
+Program::OutputBus0      ø
+Program::InputBus1      ø
+Program::InputBus0      ø%
+Program::MIDIOutputChannel      @"
+Program::MIDIOutputPort       ¿$
+Program::MIDIInputChannel      ¿!
+Program::MIDIInputPort       ¿
+Object::Color 
+Object::PadOrder      ø
+Object::Order     ÄK@
+Object::DisplayNameP3
+Object::PresetPath 
+Object::Namep55ª
+MacroControlRoute+
+ MacroControlRoute::UseParamRange        &
+MacroControlRoute::RatioMaxπÁLi'˜Ô?&
+MacroControlRoute::RatioMin        
+Object::Color 0
+%MacroControlRoute::MacroControlNumber      .@
+Object::PadOrder      ø/
+MacroControlRoute::ParamNameProgram::Volume
+Object::Order      @'
+MacroControlRoute::ParamPath/b3/p55
+Object::DisplayNameVOLUME
+Object::PresetPath 
+Object::Namemacro_route0√
+Sampler
+Object::Color 
+Object::PadOrder      ø
+Object::Order      ø
+Object::DisplayNameSampler
+Sampler::Polyphony      @@
+Object::PresetPath 
+Object::Namesampler˘
+Pad
+Program::MacroXY      ø
+Program::MacroPage        !
+Program::PreFaderSends        !
+Program::Send7PreFader        !
+Program::Send6PreFader        !
+Program::Send5PreFader        !
+Program::Send4PreFader        !
+Program::Send3PreFader        
+Pad::SelectedNote      H@!
+Program::Send2PreFader        !
+Pad::FixedMIDIVelocity      ?!
+Program::Send1PreFader        
+Pad::Velocity     ¿_@!
+Program::Send0PreFader        
+Pad::ArpRange      ?
+Program::Send7        
+Pad::ArpMode        
+Program::Send6        
+Pad::ScaleType      ø
+Program::Send5        
+Pad::ChordType      ø
+Program::Send4        
+Pad::BaseKey      L@
+Program::Send3        
+Pad::LinkGroup      ø
+Program::Send2        
+Pad::ChokeGroup      ø
+Program::Send1        
+Program::Send0        
+Program::Solo        
+Program::Mute        
+Program::Pan        
+Program::VolumeŒ2≠‹Ô?
+Program::OutputBus1      ø
+Program::OutputBus0      ø
+Program::InputBus1      ø
+Program::InputBus0      ø%
+Program::MIDIOutputChannel      @"
+Program::MIDIOutputPort       ¿$
+Program::MIDIInputChannel      ¿!
+Program::MIDIInputPort       ¿
+Object::Color 
+Object::PadOrder      ø
+Object::Order      L@
+Object::DisplayNameP4
+Object::PresetPath 
+Object::Namep56ª
+MacroControlRoute+
+ MacroControlRoute::UseParamRange        &
+MacroControlRoute::RatioMaxŒ2≠‹Ô?&
+MacroControlRoute::RatioMin        
+Object::Color 0
+%MacroControlRoute::MacroControlNumber      .@
+Object::PadOrder      ø/
+MacroControlRoute::ParamNameProgram::Volume
+Object::Order       @'
+MacroControlRoute::ParamPath/b3/p56
+Object::DisplayNameVOLUME
+Object::PresetPath 
+Object::Namemacro_route0√
+Sampler
+Object::Color 
+Object::PadOrder      ø
+Object::Order      ø
+Object::DisplayNameSampler
+Sampler::Polyphony      @@
+Object::PresetPath 
+Object::Namesampler˘
+Pad
+Program::MacroXY      ø
+Program::MacroPage        !
+Program::PreFaderSends        !
+Program::Send7PreFader        !
+Program::Send6PreFader        !
+Program::Send5PreFader        !
+Program::Send4PreFader        !
+Program::Send3PreFader        
+Pad::SelectedNote      H@!
+Program::Send2PreFader        !
+Pad::FixedMIDIVelocity      ?!
+Program::Send1PreFader        
+Pad::Velocity     ¿_@!
+Program::Send0PreFader        
+Pad::ArpRange      ?
+Program::Send7        
+Pad::ArpMode        
+Program::Send6        
+Pad::ScaleType      ø
+Program::Send5        
+Pad::ChordType      ø
+Program::Send4        
+Pad::BaseKey     ÄL@
+Program::Send3        
+Pad::LinkGroup      ø
+Program::Send2        
+Pad::ChokeGroup      ø
+Program::Send1        
+Program::Send0        
+Program::Solo        
+Program::Mute        
+Program::Pan        
+Program::Volume'¡@„÷˜Ô?
+Program::OutputBus1      ø
+Program::OutputBus0      ø
+Program::InputBus1      ø
+Program::InputBus0      ø%
+Program::MIDIOutputChannel      @"
+Program::MIDIOutputPort       ¿$
+Program::MIDIInputChannel      ¿!
+Program::MIDIInputPort       ¿
+Object::Color 
+Object::PadOrder      ø
+Object::Order     ÄL@
+Object::DisplayNameP5
+Object::PresetPath 
+Object::Namep57ª
+MacroControlRoute+
+ MacroControlRoute::UseParamRange        &
+MacroControlRoute::RatioMax'¡@„÷˜Ô?&
+MacroControlRoute::RatioMin        
+Object::Color 0
+%MacroControlRoute::MacroControlNumber      .@
+Object::PadOrder      ø/
+MacroControlRoute::ParamNameProgram::Volume
+Object::Order      "@'
+MacroControlRoute::ParamPath/b3/p57
+Object::DisplayNameVOLUME
+Object::PresetPath 
+Object::Namemacro_route0√
+Sampler
+Object::Color 
+Object::PadOrder      ø
+Object::Order      ø
+Object::DisplayNameSampler
+Sampler::Polyphony      @@
+Object::PresetPath 
+Object::Namesamplerë
+Pad
+Program::MacroXY      ø
+Program::MacroPage        !
+Program::PreFaderSends        !
+Program::Send7PreFader        !
+Program::Send6PreFader        !
+Program::Send5PreFader        !
+Program::Send4PreFader        !
+Program::Send3PreFader        
+Pad::SelectedNote      J@!
+Program::Send2PreFader        !
+Pad::FixedMIDIVelocity      ?!
+Program::Send1PreFader        
+Pad::Velocity        !
+Program::Send0PreFader        
+Pad::ArpRange      ?
+Program::Send7        
+Pad::ArpMode        
+Program::Send6        
+Pad::ScaleType      ø
+Program::Send5        
+Pad::ChordType      ø
+Program::Send4        
+Pad::BaseKey      J@
+Program::Send3        
+Pad::LinkGroup      ø
+Program::Send2        
+Pad::ChokeGroup      ø
+Program::Send1        
+Program::Send0        
+Program::Solo        
+Program::Mute        
+Program::Pan        
+Program::Volume        
+Program::OutputBus1      ø
+Program::OutputBus0      ø
+Program::InputBus1      ø
+Program::InputBus0      ø%
+Program::MIDIOutputChannel      ø"
+Program::MIDIOutputPort       ¿$
+Program::MIDIInputChannel      ¿!
+Program::MIDIInputPort       ¿
+Object::Color	#ffb2bcc8
+Object::PadOrder      ø
+Object::Order      N@(
+Object::DisplayNameCLEAR ALL HELPERS
+Object::PresetPath 
+Object::Namep60ª
+MacroControlRoute+
+ MacroControlRoute::UseParamRange        &
+MacroControlRoute::RatioMax        &
+MacroControlRoute::RatioMin        
+Object::Color 0
+%MacroControlRoute::MacroControlNumber      .@
+Object::PadOrder      ø/
+MacroControlRoute::ParamNameProgram::Volume
+Object::Order      *@'
+MacroControlRoute::ParamPath/b3/p60
+Object::DisplayNameVOLUME
+Object::PresetPath 
+Object::Namemacro_route0√
+Sampler
+Object::Color 
+Object::PadOrder      ø
+Object::Order      ø
+Object::DisplayNameSampler
+Sampler::Polyphony      @@
+Object::PresetPath 
+Object::Namesamplerä
+Pad
+Program::MacroXY      ø
+Program::MacroPage        !
+Program::PreFaderSends        !
+Program::Send7PreFader        !
+Program::Send6PreFader        !
+Program::Send5PreFader        !
+Program::Send4PreFader        !
+Program::Send3PreFader        
+Pad::SelectedNote      J@!
+Program::Send2PreFader        !
+Pad::FixedMIDIVelocity      ?!
+Program::Send1PreFader        
+Pad::Velocity   `D@!
+Program::Send0PreFader        
+Pad::ArpRange      ?
+Program::Send7        
+Pad::ArpMode        
+Program::Send6        
+Pad::ScaleType      ø
+Program::Send5        
+Pad::ChordType      ø
+Program::Send4        
+Pad::BaseKey      J@
+Program::Send3        
+Pad::LinkGroup      ø
+Program::Send2        
+Pad::ChokeGroup      ø
+Program::Send1        
+Program::Send0        
+Program::Solo        
+Program::Mute        
+Program::Pan        
+Program::Volume        
+Program::OutputBus1      ø
+Program::OutputBus0      ø
+Program::InputBus1      ø
+Program::InputBus0      ø%
+Program::MIDIOutputChannel      @"
+Program::MIDIOutputPort       ¿$
+Program::MIDIInputChannel      ¿!
+Program::MIDIInputPort       ¿
+Object::Color	#ffb2bcc8
+Object::PadOrder      ø
+Object::Order     ÄN@!
+Object::DisplayName
+SET HELPER
+Object::PresetPath 
+Object::Namep61ª
+MacroControlRoute+
+ MacroControlRoute::UseParamRange        &
+MacroControlRoute::RatioMax        &
+MacroControlRoute::RatioMin        
+Object::Color 0
+%MacroControlRoute::MacroControlNumber      .@
+Object::PadOrder      ø/
+MacroControlRoute::ParamNameProgram::Volume
+Object::Order      ,@'
+MacroControlRoute::ParamPath/b3/p61
+Object::DisplayNameVOLUME
+Object::PresetPath 
+Object::Namemacro_route0√
+Sampler
+Object::Color 
+Object::PadOrder      ø
+Object::Order      ø
+Object::DisplayNameSampler
+Sampler::Polyphony      @@
+Object::PresetPath 
+Object::NamesamplerÉ
+Pad
+Program::MacroXY      ø
+Program::MacroPage        !
+Program::PreFaderSends        !
+Program::Send7PreFader        !
+Program::Send6PreFader        !
+Program::Send5PreFader        !
+Program::Send4PreFader        !
+Program::Send3PreFader        
+Pad::SelectedNote      N@!
+Program::Send2PreFader        !
+Pad::FixedMIDIVelocity        !
+Program::Send1PreFader        
+Pad::Velocity     ¿_@!
+Program::Send0PreFader        
+Pad::ArpRange      ?
+Program::Send7        
+Pad::ArpMode        
+Program::Send6        
+Pad::ScaleType      ø
+Program::Send5        
+Pad::ChordType      ø
+Program::Send4        
+Pad::BaseKey      O@
+Program::Send3        
+Pad::LinkGroup      ø
+Program::Send2        
+Pad::ChokeGroup      ø
+Program::Send1        
+Program::Send0        
+Program::Solo        
+Program::Mute        
+Program::Pan        
+Program::Volumeå}Whç‚Ô?
+Program::OutputBus1      ø
+Program::OutputBus0      ø
+Program::InputBus1      ø
+Program::InputBus0      ø%
+Program::MIDIOutputChannel      @"
+Program::MIDIOutputPort       ¿$
+Program::MIDIInputChannel      ¿!
+Program::MIDIInputPort       ¿
+Object::Color	#ffcfcea4
+Object::PadOrder      ø
+Object::Order      O@
+Object::DisplayNameFS1
+Object::PresetPath 
+Object::Namep62ª
+MacroControlRoute+
+ MacroControlRoute::UseParamRange        &
+MacroControlRoute::RatioMaxå}Whç‚Ô?&
+MacroControlRoute::RatioMin        
+Object::Color 0
+%MacroControlRoute::MacroControlNumber      .@
+Object::PadOrder      ø/
+MacroControlRoute::ParamNameProgram::Volume
+Object::Order      $@'
+MacroControlRoute::ParamPath/b3/p62
+Object::DisplayNameVOLUME
+Object::PresetPath 
+Object::Namemacro_route0√
+Sampler
+Object::Color 
+Object::PadOrder      ø
+Object::Order      ø
+Object::DisplayNameSampler
+Sampler::Polyphony      @@
+Object::PresetPath 
+Object::NamesamplerÉ
+Pad
+Program::MacroXY      ø
+Program::MacroPage        !
+Program::PreFaderSends        !
+Program::Send7PreFader        !
+Program::Send6PreFader        !
+Program::Send5PreFader        !
+Program::Send4PreFader        !
+Program::Send3PreFader        
+Pad::SelectedNote      N@!
+Program::Send2PreFader        !
+Pad::FixedMIDIVelocity        !
+Program::Send1PreFader        
+Pad::Velocity     ¿_@!
+Program::Send0PreFader        
+Pad::ArpRange      ?
+Program::Send7        
+Pad::ArpMode        
+Program::Send6        
+Pad::ScaleType      ø
+Program::Send5        
+Pad::ChordType      ø
+Program::Send4        
+Pad::BaseKey     ÄO@
+Program::Send3        
+Pad::LinkGroup      ø
+Program::Send2        
+Pad::ChokeGroup      ø
+Program::Send1        
+Program::Send0        
+Program::Solo        
+Program::Mute        
+Program::Pan        
+Program::VolumeP∑gbVˇÔ?
+Program::OutputBus1      ø
+Program::OutputBus0      ø
+Program::InputBus1      ø
+Program::InputBus0      ø%
+Program::MIDIOutputChannel      @"
+Program::MIDIOutputPort       ¿$
+Program::MIDIInputChannel      ¿!
+Program::MIDIInputPort       ¿
+Object::Color	#ffffd27e
+Object::PadOrder      ø
+Object::Order     ÄO@
+Object::DisplayNameFS2
+Object::PresetPath 
+Object::Namep63ª
+MacroControlRoute+
+ MacroControlRoute::UseParamRange        &
+MacroControlRoute::RatioMaxL∑gbVˇÔ?&
+MacroControlRoute::RatioMin        
+Object::Color 0
+%MacroControlRoute::MacroControlNumber      .@
+Object::PadOrder      ø/
+MacroControlRoute::ParamNameProgram::Volume
+Object::Order      &@'
+MacroControlRoute::ParamPath/b3/p63
+Object::DisplayNameVOLUME
+Object::PresetPath 
+Object::Namemacro_route0√
+Sampler
+Object::Color 
+Object::PadOrder      ø
+Object::Order      ø
+Object::DisplayNameSampler
+Sampler::Polyphony      @@
+Object::PresetPath 
+Object::Namesampler›
+Pattern!
+Pattern::QuantizeSwing         
+Pattern::QuantizeSync      *@!
+Pattern::SwingInverted        
+Pattern::SwingSync      *@
+Pattern::SwingAmount        
+Pattern::EditingSync      *@
+Object::PresetPath 
+Object::Nameptrn0
+Pattern::PatternID        
+Pattern::AutoSync        
+Pattern::LastPadEnd      0@ 
+Pattern::LastPadStart        
+Object::Color 
+Pattern::LastKeyEnd      R@
+Object::PadOrder      ø 
+Pattern::LastKeyStart      H@
+Object::Order        
+Pattern::LastBeatEnd        !
+Pattern::LastBeatStart         
+Object::DisplayName	Pattern 1 
+Pattern::DurationBars      ?
+Pattern::Duration      Æ@
+Pattern::Looped      ?" ¢(0 8 @ " ¢(0 8 @ " £(0 8 @ " £(0 8 @ " £(0 8 @ " £(0 8 @ " £(0 8 @ " Ω(0 8 @ " Ω(0 8 @ " Ω(0 8 @ " Ω(0 8 @ " Ω(0 8 @ " Ω(0 8 @ " Ω(0 8 @ " î(0 8 @ " î(0 8 @ " î(0 8 @ " ï(0 8 @ " ï(0 8 @ " ï(0 8 @ " ï(0 8 @ 
